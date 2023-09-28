@@ -1,0 +1,35 @@
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+.menu {
+    font-family: 'poppins', serif;
+    font-weight: bold;
+}
+.merriwheather {
+    font-family: 'Merriweather', serif;
+}
+.blue-background{
+    background-color: #A6E4FF;
+}
+.text-colors{
+ color: black;
+}
+
+.txcolor {
+    color: black !important;
+}
+
+.grey-back{
+    background-color: #eeeeee;
+}
+
+.myspace {
+    padding-bottom: 100px !important;
+}
+.colorblue{
+    color: #296F8D;
+}  
+
+.navbar {
+    background-color: #A6E4FF; 
+  }
